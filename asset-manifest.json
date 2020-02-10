@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/holidays/static/css/main.e7ceec3e.chunk.css",
+    "main.css": "/holidays/static/css/main.e0b9455f.chunk.css",
     "main.js": "/holidays/static/js/main.5e78891d.chunk.js",
     "main.js.map": "/holidays/static/js/main.5e78891d.chunk.js.map",
     "runtime-main.js": "/holidays/static/js/runtime-main.1d024b95.js",
@@ -8,15 +8,15 @@
     "static/js/2.a8247847.chunk.js": "/holidays/static/js/2.a8247847.chunk.js",
     "static/js/2.a8247847.chunk.js.map": "/holidays/static/js/2.a8247847.chunk.js.map",
     "index.html": "/holidays/index.html",
-    "precache-manifest.6e0f5223a192d78e6da0eb687cba7712.js": "/holidays/precache-manifest.6e0f5223a192d78e6da0eb687cba7712.js",
+    "precache-manifest.a6c2970ba3cc2c2958af119aa8a2ed23.js": "/holidays/precache-manifest.a6c2970ba3cc2c2958af119aa8a2ed23.js",
     "service-worker.js": "/holidays/service-worker.js",
-    "static/css/main.e7ceec3e.chunk.css.map": "/holidays/static/css/main.e7ceec3e.chunk.css.map",
+    "static/css/main.e0b9455f.chunk.css.map": "/holidays/static/css/main.e0b9455f.chunk.css.map",
     "static/js/2.a8247847.chunk.js.LICENSE.txt": "/holidays/static/js/2.a8247847.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d024b95.js",
     "static/js/2.a8247847.chunk.js",
-    "static/css/main.e7ceec3e.chunk.css",
+    "static/css/main.e0b9455f.chunk.css",
     "static/js/main.5e78891d.chunk.js"
   ]
 }
